@@ -1,3 +1,3 @@
-## Hi ##
+## Halo ##
 
-I code sometimes, usually solo.
+Ich programmiere manchmal, normalerweise allein.
